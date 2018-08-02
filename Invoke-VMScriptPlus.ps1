@@ -1,5 +1,5 @@
-#Source: 	Luc Dekens
-#			http://www.lucd.info/2017/09/14/invoke-vmscriptplus/
+# Source: 	Luc Dekens
+#			       http://www.lucd.info/2017/09/14/invoke-vmscriptplus/
 #
 #requires -Version 5.0
 #requires -Modules VMware.VimAutomation.Core
